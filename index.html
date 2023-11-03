@@ -17,16 +17,17 @@
       <div class="weather-app-wrapper">
         <div class="weather-app">
           <header>
-            <form>
+            <form id="search-form">
               <input
                 type="search"
                 placeholder="Enter a city..."
                 class="search-form-input"
+                id="search-form-input"
               />
               <input type="submit" value="search" class="search-form-button" />
             </form>
           </header>
-          <h1>New York</h1>
+          <h1 id="city">New York</h1>
           <div class="row">
             <div class="col-6">
               <ul>
@@ -65,5 +66,6 @@
         </small>
       </div>
     </div>
+    <script src="src/script.js"></script>
   </body>
 </html>
