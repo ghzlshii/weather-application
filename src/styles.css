@@ -72,3 +72,9 @@ header {
   border-bottom: 2px solid white;
   padding: 0 0 34px 0;
 }
+#humidity {
+  color: #ff9a3c;
+}
+#wind {
+  color: #ff9a3c;
+}
