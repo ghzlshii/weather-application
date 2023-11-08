@@ -94,3 +94,8 @@ header {
   font-weight: bold;
   font-size: 15px;
 }
+#forecast {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
