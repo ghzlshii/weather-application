@@ -78,3 +78,19 @@ header {
 #wind {
   color: #ff9a3c;
 }
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+.weather-forecast-date {
+  color: #878787;
+}
+.weather-forecast-min {
+  color: #878787;
+  font-size: 15px;
+}
+.weather-forecast-max {
+  color: #ff9a3c;
+  font-weight: bold;
+  font-size: 15px;
+}
